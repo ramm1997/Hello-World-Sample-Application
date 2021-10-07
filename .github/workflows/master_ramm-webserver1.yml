@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'ramm-webserver1'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0495CD94301145199C03F57CB999C72A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0F6E43AB20DB49179F0310F7F95C98F4 }}
           package: .
